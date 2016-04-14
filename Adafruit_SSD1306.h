@@ -43,6 +43,9 @@ All text above, and the splash screen must be included in any redistribution
 
 /*=========================================================================*/
 
+//#define SSD1306_128_64
+#define SSD1306_128_32
+
 #if defined SSD1306_128_64 && defined SSD1306_128_32
   #error "Only one SSD1306 display can be specified at once in SSD1306.h"
 #endif
