@@ -1,6 +1,6 @@
 {
     "name": "Adafruit_SSD1306_128x32n",
-    "version": "0.0.1",
+    "version": "0.0.10",
     "author": "Someone <email@somesite.com>",
     "license": "Choose a license",
     "description": "128x32 version of Adafruit SSD1306 library"
